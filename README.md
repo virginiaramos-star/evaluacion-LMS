@@ -1,22 +1,21 @@
-# Comparativa de Plataformas LMS
+Comparativa de Plataformas LMS
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
 > **Docente:** Briseida Cruz
-> **Grupo:** Alpha  
-> **Fecha:** 26 / 07 / 2026
+> **Grupo:** Alpha
+> **Fecha:** 27 / 07 / 2026
 
 ---
 
 # 📖 Descripción
 
-En este trabajo, exploramos el mundo detrás de las plataformas que utilizamos a diario para estudiar. Nuestra intención fue dejar de ver a Moodle, Blackboard y Canvas simplemente como portales de acceso, y entender realmente qué había bajo el capó de cada una: cómo gestionaban nuestra información, qué tan sencillo nos hacían el trabajo y, sobre todo, cómo moldeaban la forma en que interactuábamos con nuestros profesores. Fue, en esencia, una mirada crítica a la tecnología que sostuvo gran parte de nuestro proceso formativo.
-
+Este repositorio documentó una reseña crítica comparativa de tres sistemas de gestión del aprendizaje (**Moodle**, **Blackboard** y **Canvas**). Analizamos sus características técnicas, las ventajas y las limitaciones que observamos al utilizarlas, y discutimos sus aplicaciones reales dentro de los entornos educativos virtuales.
 ---
 
 # 🎯 Objetivo
 
-Analizar las capacidades técnicas y pedagógicas de Moodle, Blackboard y Canvas, con el fin de valorar cuál de estas herramientas ofrece la mejor experiencia de aprendizaje para los estudiantes.
+Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseña crítica, aplicando criterios académicos y tecnológicos para valorar su utilización en ambientes virtuales de aprendizaje.
 
 ---
 
