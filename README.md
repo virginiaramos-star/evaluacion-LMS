@@ -72,18 +72,19 @@ Es el Sistema de Gestión de Aprendizaje (LMS) de código abierto más popular d
 
 ### Ventajas
 
-- Interfaz limpia y altamente intuitiva.
+- Flexibilidad total: Al ser open source, permite una personalización casi ilimitada mediante plugins y temas.
   
-- Excelente integración con herramientas externas (Google Workspace, Microsoft, etc.).
+- Costo-efectividad: No requiere pago de licencias de software, lo que lo hace ideal para instituciones con presupuestos limitados.
   
-- Aplicación móvil robusta con funciones completas para el estudiante.
+- Comunidad masiva: Existe una enorme base de conocimientos, foros de ayuda y documentación en casi cualquier idioma.
 
 ### Desventajas
 
-- Costo elevado en comparación con soluciones de código abierto.
+- Curva de aprendizaje técnica: Requiere conocimientos avanzados de administración de servidores y configuración para que funcione de manera óptima.
 
-- Menor capacidad de personalización profunda del sistema comparado con Moodle.
-
+- Interfaz tosca: Por defecto, su diseño puede sentirse antiguo o menos intuitivo comparado con plataformas modernas.
+  
+- Dependencia de soporte interno: Al no tener un proveedor central, la responsabilidad del mantenimiento y las actualizaciones recae totalmente en la institución.
 ---
 
 # ⚫ Blackboard
@@ -94,19 +95,19 @@ Es una plataforma LMS de nivel empresarial, reconocida por su robustez y su enfo
 
 ### Ventajas
 
--
+- Escalabilidad y potencia: Es una plataforma extremadamente robusta, diseñada para soportar grandes volúmenes de usuarios y cursos complejos sin fallos.
 
--
+- Ecosistema integrado: Ofrece herramientas avanzadas de evaluación, análisis de datos (aprendizaje analítico) y una seguridad muy alta.
 
--
+- Soporte profesional: Al ser una solución comercial, las instituciones cuentan con asistencia técnica directa, actualizaciones garantizadas y estabilidad.
 
 ### Desventajas
 
--
+- Costo elevado: Los modelos de licenciamiento suelen ser muy costosos, lo que lo hace prohibitivo para instituciones pequeñas.
 
--
+- Interfaz compleja: Suele tener muchos menús y una estructura que puede abrumar al estudiante nuevo si no está bien configurada.
 
--
+- Rigidez: Es más difícil de personalizar o adaptar a necesidades pedagógicas muy específicas en comparación con sistemas como Moodle.
 
 ---
 
@@ -118,19 +119,19 @@ Es un LMS basado en la nube que destaca por su interfaz moderna, intuitiva y cen
 
 ### Ventajas
 
--
+- Diseño intuitivo: Su interfaz es minimalista y muy fácil de usar, lo que reduce la carga cognitiva para estudiantes y docentes.
 
--
+- Nube nativa: Se actualiza automáticamente de forma constante sin necesidad de que el cliente realice gestiones técnicas complejas.
 
--
+- Integración fluida: Su API permite una conexión muy sencilla con aplicaciones externas (como Google Drive, Zoom o herramientas de gamificación).
 
 ### Desventajas
 
--
+- Personalización limitada: Aunque es amigable, tiene menos opciones de configuración profunda en la estructura del código comparado con Moodle.
 
--
+- Costo de suscripción: Sigue siendo una plataforma comercial, por lo que su costo puede ser un factor determinante para instituciones con bajo presupuesto.
 
--
+- Dependencia de conexión: Al estar basada exclusivamente en la nube, la dependencia de una conexión a internet estable es crítica para su correcto funcionamiento.
 
 ---
 
