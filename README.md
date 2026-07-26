@@ -1,4 +1,4 @@
-Comparativa de Plataformas LMS
+# Reseña Crítica Comparativa de Plataformas LMS
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
