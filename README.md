@@ -256,7 +256,7 @@ https://github.com/virginiaramos-star/evaluacion-LMS
 Enlace de acceso a la publicación del proyecto mediante GitHub Pages:
 
 ```text
-https://usuario.github.io/evaluacion-LMS/
+https://virginiaramos-star.github.io/evaluacion-LMS/
 ```
 
 > **Nota:** Esta evidencia es opcional y solamente debe incluirse cuando el repositorio haya sido publicado mediante GitHub Pages.
