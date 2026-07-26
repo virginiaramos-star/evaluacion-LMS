@@ -1,10 +1,10 @@
-# 🎓 Evaluación Comparativa Profesional de Plataformas LMS
+# Comparativa de Plataformas LMS
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
-> **Docente:** _______________________  
-> **Estudiante:** ____________________  
-> **Fecha:** ____ / ____ / ______
+> **Docente:** Briseida Cruz 
+> **Grupo:** Alpha  
+> **Fecha:** 26 / 07 / 2026
 
 ---
 
