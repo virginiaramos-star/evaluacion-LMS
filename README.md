@@ -15,7 +15,7 @@ Este repositorio documentó una reseña crítica comparativa de tres sistemas de
 
 # 🎯 Objetivo
 
-Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseña crítica, aplicando criterios académicos y tecnológicos para valorar su utilización en ambientes virtuales de aprendizaje.
+Realizar un análisis comparativo de las plataformas Moodle, Blackboard y Canvas, mediante el cual evaluamos sus funcionalidades técnicas y pedagógicas para determinar qué impacto tuvieron en nuestra experiencia como estudiantes dentro de los ambientes virtuales de aprendizaje.
 
 ---
 
