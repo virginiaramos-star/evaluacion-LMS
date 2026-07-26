@@ -3,6 +3,8 @@
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
 > **Docente:** Briseida Cruz
+> **Grupo:** Alpha - Pioneros en la exploración de nuevas ideas y estrategias para la transformación educativa.
+> **Estudiantes:** Virginia Ramos - Irene Jaramillo - Luis Córdoba - Faustino Pinto.
 
 ---
 
