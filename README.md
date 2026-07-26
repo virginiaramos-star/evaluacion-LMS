@@ -222,7 +222,7 @@ https://usuario.github.io/evaluacion-LMS/
 
 # 👨‍💻 Autor
 
-**Nombre del estudiante**
+**Grupo ALPHA**
 
 Universidad Tecnológica OTEIMA
 
