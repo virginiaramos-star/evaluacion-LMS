@@ -261,6 +261,8 @@ https://virginiaramos-star.github.io/evaluacion-LMS/
 
 **Grupo ALPHA**
 
+**Fecha: 26 de julio de 2026**
+
 Universidad Tecnológica OTEIMA
 
 Facultad de Ciencias Tecnológicas
@@ -268,5 +270,3 @@ Facultad de Ciencias Tecnológicas
 Asignatura: Enseñanza y Aprendizaje en Línea
 
 Docente: Briseida Cruz
-
-Año: 2026
