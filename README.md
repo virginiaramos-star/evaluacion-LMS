@@ -32,8 +32,6 @@ Concluimos que no existe un sistema perfecto para todas las situaciones. La elec
 
 # 🏷️ Palabras clave
 
-> Escriba un máximo de cinco palabras clave en orden alfabético.
-
 - Aula Virtual
 - Competencias Digitales
 - E-learning
