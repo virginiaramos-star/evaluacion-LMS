@@ -68,11 +68,17 @@ Moodle es el sistema de gestión del aprendizaje de código abierto más popular
 
 ### Ventajas
 
-Entre sus principales ventajas destaca en primer lugar su flexibilidad total, ya que al tratarse de un software de código abierto permite una personalización casi ilimitada mediante la instalación de complementos y de temas que modifican tanto su apariencia como sus funciones; en segundo lugar sobresale su carácter económico, pues no requiere el pago de licencias de software, lo cual lo vuelve ideal para instituciones que trabajan con presupuestos limitados y que necesitan aprovechar al máximo sus recursos; en tercer lugar cuenta con una comunidad masiva de usuarios y de desarrolladores repartidos por todo el mundo, de manera que existe una enorme base de conocimientos, foros de ayuda y documentación disponible en casi cualquier idioma, y esta comunidad activa facilita la resolución de problemas, la actualización constante de la plataforma y el intercambio permanente de experiencias entre quienes la utilizan en distintos contextos educativos.
+Entre sus principales ventajas destacan:
+- Su flexibilidad total, ya que al tratarse de un software de código abierto permite una personalización casi ilimitada mediante la instalación de complementos y de temas que modifican tanto su apariencia como sus funciones.
+- Sobresale su carácter económico, pues no requiere el pago de licencias de software, lo cual lo vuelve ideal para instituciones que trabajan con presupuestos limitados y que necesitan aprovechar al máximo sus recursos.
+- Cuenta con una comunidad masiva de usuarios y de desarrolladores repartidos por todo el mundo, de manera que existe una enorme base de conocimientos, foros de ayuda y documentación disponible en casi cualquier idioma, y esta comunidad activa facilita la resolución de problemas, la actualización constante de la plataforma y el intercambio permanente de experiencias entre quienes la utilizan en distintos contextos educativos.
 
 ### Desventajas
 
-No obstante, Moodle también presenta desventajas que conviene reconocer con honestidad, y la primera de ellas es su curva de aprendizaje técnica, puesto que requiere conocimientos avanzados de administración de servidores y de configuración para que funcione de manera óptima, lo cual puede resultar abrumador para quienes no dominan esos aspectos; la segunda desventaja se relaciona con su interfaz, ya que por defecto su diseño puede sentirse antiguo o menos intuitivo cuando se lo compara con plataformas más modernas, de modo que la experiencia visual depende en gran medida del trabajo que la institución dedique a personalizarla; la tercera desventaja consiste en la dependencia del soporte interno, porque al no existir un proveedor central que gestione el servicio, toda la responsabilidad del mantenimiento, de las copias de seguridad y de las actualizaciones recae sobre la institución, la cual debe contar con personal capacitado y con tiempo suficiente para atender esas tareas de forma continua.
+No obstante, Moodle también presenta desventajas que conviene reconocer con honestidad:
+- Su curva de aprendizaje técnica, puesto que requiere conocimientos avanzados de administración de servidores y de configuración para que funcione de manera óptima, lo cual puede resultar abrumador para quienes no dominan esos aspectos.
+- Su interfaz, ya que por defecto su diseño puede sentirse antiguo o menos intuitivo cuando se lo compara con plataformas más modernas, de modo que la experiencia visual depende en gran medida del trabajo que la institución dedique a personalizarla.
+- La dependencia del soporte interno, porque al no existir un proveedor central que gestione el servicio, toda la responsabilidad del mantenimiento, de las copias de seguridad y de las actualizaciones recae sobre la institución, la cual debe contar con personal capacitado y con tiempo suficiente para atender esas tareas de forma continua.
 
 ---
 
@@ -84,11 +90,17 @@ Blackboard es una plataforma de gestión del aprendizaje de nivel empresarial, r
 
 ### Ventajas
 
-Las ventajas de Blackboard se aprecian sobre todo en su escalabilidad y en su potencia, ya que se trata de una plataforma extremadamente robusta, diseñada para soportar grandes volúmenes de usuarios y cursos complejos sin presentar fallos ni interrupciones; a esta fortaleza se suma su ecosistema integrado, que ofrece herramientas avanzadas de evaluación, análisis de datos mediante el aprendizaje analítico y un nivel de seguridad muy alto que protege la información sensible de la comunidad educativa; otra ventaja importante es el soporte profesional que reciben las instituciones, pues al tratarse de una solución comercial cuentan con asistencia técnica directa, con actualizaciones garantizadas y con una estabilidad que reduce los riesgos de interrupción del servicio, de manera que la organización educativa puede concentrarse en los aspectos pedagógicos mientras el proveedor se encarga de mantener el funcionamiento correcto de la plataforma.
+Las ventajas de Blackboard se aprecian sobre todo en:
+- Su escalabilidad y en su potencia, ya que se trata de una plataforma extremadamente robusta, diseñada para soportar grandes volúmenes de usuarios y cursos complejos sin presentar fallos ni interrupciones.
+- Su ecosistema integrado, que ofrece herramientas avanzadas de evaluación, análisis de datos mediante el aprendizaje analítico y un nivel de seguridad muy alto que protege la información sensible de la comunidad educativa.
+- El soporte profesional que reciben las instituciones, pues al tratarse de una solución comercial cuentan con asistencia técnica directa, con actualizaciones garantizadas y con una estabilidad que reduce los riesgos de interrupción del servicio, de manera que la organización educativa puede concentrarse en los aspectos pedagógicos mientras el proveedor se encarga de mantener el funcionamiento correcto de la plataforma.
 
 ### Desventajas
 
-Entre sus desventajas figura en primer lugar su costo elevado, ya que los modelos de licenciamiento suelen ser muy caros, lo cual convierte a esta plataforma en una opción prohibitiva para muchas instituciones pequeñas que no disponen de un presupuesto amplio; en segundo lugar aparece la complejidad de su interfaz, pues suele presentar numerosos menús y una estructura que puede abrumar al estudiante nuevo cuando la institución no la configura de manera clara y ordenada; en tercer lugar se encuentra su rigidez, dado que resulta más difícil de personalizar o de adaptar a necesidades pedagógicas muy específicas en comparación con sistemas abiertos como Moodle, de modo que las organizaciones que buscan una gran libertad de configuración pueden sentirse limitadas por las restricciones propias de una solución comercial que prioriza la estandarización por encima de la flexibilidad.
+Entre sus desventajas figuran:
+- Su costo elevado, ya que los modelos de licenciamiento suelen ser muy caros, lo cual convierte a esta plataforma en una opción prohibitiva para muchas instituciones pequeñas que no disponen de un presupuesto amplio.
+- La complejidad de su interfaz, pues suele presentar numerosos menús y una estructura que puede abrumar al estudiante nuevo cuando la institución no la configura de manera clara y ordenada.
+- Su rigidez, dado que resulta más difícil de personalizar o de adaptar a necesidades pedagógicas muy específicas en comparación con sistemas abiertos como Moodle, de modo que las organizaciones que buscan una gran libertad de configuración pueden sentirse limitadas por las restricciones propias de una solución comercial que prioriza la estandarización por encima de la flexibilidad.
 
 ---
 
@@ -100,11 +112,16 @@ Canvas es un sistema de gestión del aprendizaje basado en la nube que destaca p
 
 ### Ventajas
 
-La principal ventaja de Canvas radica en su diseño intuitivo, puesto que su interfaz minimalista y muy fácil de usar reduce la carga cognitiva de estudiantes y docentes, quienes pueden orientarse dentro de la plataforma sin dedicar demasiado tiempo a comprender su funcionamiento; una segunda ventaja es su naturaleza de nube nativa, ya que se actualiza de forma automática y constante sin que el cliente deba realizar gestiones técnicas complejas, lo cual garantiza que la plataforma se mantenga siempre en su versión más reciente y segura; una tercera ventaja es su integración fluida, pues su interfaz de programación permite conectar de manera muy sencilla aplicaciones externas como los servicios de almacenamiento en la nube, las herramientas de videoconferencia o los recursos de gamificación, de modo que la plataforma se enriquece con funciones adicionales sin perder su carácter ordenado y accesible para todos los usuarios.
+- Posee un diseño intuitivo, puesto que su interfaz minimalista y muy fácil de usar reduce la carga cognitiva de estudiantes y docentes, quienes pueden orientarse dentro de la plataforma sin dedicar demasiado tiempo a comprender su funcionamiento.
+- Su naturaleza de nube nativa, ya que se actualiza de forma automática y constante sin que el cliente deba realizar gestiones técnicas complejas, lo cual garantiza que la plataforma se mantenga siempre en su versión más reciente y segura.
+- Integración fluida, pues su interfaz de programación permite conectar de manera muy sencilla aplicaciones externas como los servicios de almacenamiento en la nube, las herramientas de videoconferencia o los recursos de gamificación, de modo que la plataforma se enriquece con funciones adicionales sin perder su carácter ordenado y accesible para todos los usuarios.
 
 ### Desventajas
 
-Sin embargo, Canvas también presenta ciertas limitaciones que deben considerarse antes de adoptarlo, y la primera de ellas es su personalización limitada, ya que, aunque resulta muy amigable, ofrece menos opciones de configuración profunda en la estructura de su código en comparación con una plataforma abierta como Moodle; la segunda limitación es su costo de suscripción, pues sigue tratándose de una plataforma comercial, de manera que el precio de los servicios puede convertirse en un factor determinante para las instituciones que cuentan con un presupuesto reducido; la tercera limitación es su dependencia de la conexión, dado que al estar basada exclusivamente en la nube requiere de forma crítica una conexión a internet estable para funcionar correctamente, lo cual puede representar un inconveniente serio en zonas donde el acceso a la red es limitado, intermitente o de baja calidad, situación frecuente en muchas regiones con menor desarrollo tecnológico.
+Sin embargo, Canvas también presenta ciertas limitaciones que deben considerarse antes de adoptarlo:
+- La personalización limitada, ya que, aunque resulta muy amigable, ofrece menos opciones de configuración profunda en la estructura de su código en comparación con una plataforma abierta como Moodle.
+- El Costo de suscripción, pues sigue tratándose de una plataforma comercial, de manera que el precio de los servicios puede convertirse en un factor determinante para las instituciones que cuentan con un presupuesto reducido.
+- Dependencia de la conexión, dado que al estar basada exclusivamente en la nube requiere de forma crítica una conexión a internet estable para funcionar correctamente, lo cual puede representar un inconveniente serio en zonas donde el acceso a la red es limitado, intermitente o de baja calidad, situación frecuente en muchas regiones con menor desarrollo tecnológico.
 
 ---
 
