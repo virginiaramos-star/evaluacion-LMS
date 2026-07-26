@@ -246,9 +246,6 @@ Enlace del repositorio utilizado para presentar la reseña crítica comparativa:
 ```text
 https://github.com/virginiaramos-star/evaluacion-LMS
 ```
-
-> **Nota:** Reemplace `usuario` y `evaluacion-LMS` por el nombre real de la cuenta y del repositorio.
-
 ---
 
 ## GitHub Pages
@@ -256,11 +253,8 @@ https://github.com/virginiaramos-star/evaluacion-LMS
 Enlace de acceso a la publicación del proyecto mediante GitHub Pages:
 
 ```text
-https://virginiaramos-star.github.io/evaluacion-LMS/
+[https://virginiaramos-star.github.io/evaluacion-LMS/](https://github.com/virginiaramos-star/evaluacion-LMS)
 ```
-
-> **Nota:** Esta evidencia es opcional y solamente debe incluirse cuando el repositorio haya sido publicado mediante GitHub Pages.
-
 ---
 
 # 👨‍💻 Autor
