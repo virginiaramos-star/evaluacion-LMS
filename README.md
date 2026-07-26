@@ -1,9 +1,13 @@
 # Reseña Crítica Comparativa de Plataformas LMS
 
-> **Asignatura:** Enseñanza y Aprendizaje en Línea  
-> **Universidad:** Universidad Tecnológica OTEIMA  
+> **Asignatura:** Enseñanza y Aprendizaje en Línea
+> 
+> **Universidad:** Universidad Tecnológica OTEIMA
+> 
 > **Docente:** Briseida Cruz
+> 
 > **Estudiantes:** Virginia Ramos - Irene Jaramillo - Luis Córdoba - Faustino Pinto.
+> 
 > **Grupo:** Alpha - Pioneros en la exploración de nuevas ideas y estrategias para la transformación educativa.
 
 ---
