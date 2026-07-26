@@ -2,7 +2,7 @@
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
-> **Docente:** Briseida Cruz 
+> **Docente:** Briseida Cruz
 > **Grupo:** Alpha  
 > **Fecha:** 26 / 07 / 2026
 
@@ -16,7 +16,7 @@ Este repositorio presenta una **reseña crítica comparativa** de tres Sistemas 
 
 # 🎯 Objetivo
 
-Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseña crítica, aplicando criterios académicos y tecnológicos para valorar su utilización en ambientes virtuales de aprendizaje.
+Analizar las capacidades técnicas y pedagógicas de Moodle, Blackboard y Canvas, con el fin de valorar cuál de estas herramientas ofrece la mejor experiencia de aprendizaje para los estudiantes.
 
 ---
 
