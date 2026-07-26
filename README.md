@@ -22,13 +22,11 @@ Realizar un análisis comparativo de las plataformas Moodle, Blackboard y Canvas
 
 # 📄 Resumen
 
-> **Instrucciones:**
->
-> Escriba un resumen entre **150 y 250 palabras**.
->
-> Utilice **tiempo pasado**.
->
-> Explique de forma breve el propósito del análisis, la metodología utilizada y las principales conclusiones.
+Realizamos un análisis crítico y comparativo de las plataformas Moodle, Blackboard y Canvas, enfocándonos en evaluar cómo sus características técnicas y pedagógicas influyen en nuestra experiencia como estudiantes. Para ello, examinamos aspectos clave como la facilidad de uso, la interfaz, las herramientas de comunicación y la capacidad de integración de cada sistema dentro de los entornos virtuales de aprendizaje.
+
+Tras el análisis, pudimos notar diferencias claras entre las tres opciones. Moodle, al ser de código abierto, resultó ser la herramienta más flexible y económica, aunque su configuración exige mayores conocimientos técnicos. Por otro lado, Blackboard demostró ser una plataforma robusta y muy completa, ideal para grandes instituciones, pero con una curva de aprendizaje bastante pesada debido a su interfaz compleja. Finalmente, identificamos a Canvas como la plataforma más moderna y amigable, destacando por una navegación intuitiva que mejora la experiencia del usuario.
+
+Concluimos que no existe un sistema perfecto para todas las situaciones. La elección de una plataforma depende directamente de las necesidades pedagógicas de la institución, su presupuesto y la capacidad técnica disponible. Independientemente de la opción elegida, coincidimos en que el éxito de una plataforma virtual no depende solo de sus funciones técnicas, sino de su capacidad para facilitar la interacción fluida entre el docente y el estudiante, logrando que la tecnología sea un apoyo para el aprendizaje y no un obstáculo.
 
 ---
 
