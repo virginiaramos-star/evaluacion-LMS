@@ -244,7 +244,7 @@ Moodle. (2026). *Moodle app offline features*. https://docs.moodle.org/en/Moodle
 Enlace del repositorio utilizado para presentar la reseña crítica comparativa:
 
 ```text
-https://github.com/usuario/evaluacion-LMS
+https://github.com/virginiaramos-star/evaluacion-LMS
 ```
 
 > **Nota:** Reemplace `usuario` y `evaluacion-LMS` por el nombre real de la cuenta y del repositorio.
