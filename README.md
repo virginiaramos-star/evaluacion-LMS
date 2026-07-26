@@ -3,6 +3,7 @@
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
 > **Docente:** Briseida Cruz
+
 > **Grupo:** Alpha  
 > **Fecha:** 26 / 07 / 2026
 
@@ -10,7 +11,7 @@
 
 # 📖 Descripción
 
-Este repositorio presenta una **reseña crítica comparativa** de tres Sistemas de Gestión del Aprendizaje (Learning Management System - LMS): **Moodle**, **Blackboard** y **Canvas**, considerando sus principales características, ventajas, limitaciones y aplicaciones en contextos educativos.
+En este trabajo, exploramos el mundo detrás de las plataformas que utilizamos a diario para estudiar. Nuestra intención fue dejar de ver a Moodle, Blackboard y Canvas simplemente como portales de acceso, y entender realmente qué había bajo el capó de cada una: cómo gestionaban nuestra información, qué tan sencillo nos hacían el trabajo y, sobre todo, cómo moldeaban la forma en que interactuábamos con nuestros profesores. Fue, en esencia, una mirada crítica a la tecnología que sostuvo gran parte de nuestro proceso formativo.
 
 ---
 
