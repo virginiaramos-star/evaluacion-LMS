@@ -253,7 +253,7 @@ https://github.com/virginiaramos-star/evaluacion-LMS
 Enlace de acceso a la publicación del proyecto mediante GitHub Pages:
 
 ```text
-[https://virginiaramos-star.github.io/evaluacion-LMS/](https://github.com/virginiaramos-star/evaluacion-LMS)
+https://virginiaramos-star.github.io/evaluacion-LMS/
 ```
 ---
 
