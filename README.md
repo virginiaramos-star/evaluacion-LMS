@@ -137,70 +137,176 @@ Es un LMS basado en la nube que destaca por su interfaz moderna, intuitiva y cen
 
 # 📊 Cuadro comparativo
 
-| Criterio | Moodle | Blackboard | Canvas |
-|----------|---------|------------|---------|
-| Facilidad de uso | | | |
-| Diseño de la interfaz | | | |
-| Herramientas de evaluación | | | |
-| Comunicación | | | |
-| Recursos multimedia | | | |
-| Personalización | | | |
-| Aplicación móvil | | | |
-| Licencia | | | |
-| Costo | | | |
-| Público objetivo | | | |
+| Criterio                       | Moodle                                                                                                                                         | Blackboard                                                                                                                             | Canvas                                                                                                                              |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Facilidad de uso**           | Media; su manejo depende de la configuración y del diseño implementado por la institución.                                                     | Media; posee numerosas funciones y requiere un periodo de adaptación inicial.                                                          | Alta; presenta una navegación sencilla, organizada e intuitiva.                                                                     |
+| **Diseño de la interfaz**      | Personalizable mediante temas y plugins, aunque su apariencia predeterminada puede resultar poco moderna.                                      | Profesional y estructurada; la experiencia Ultra ofrece un diseño más actualizado, aunque mantiene múltiples opciones administrativas. | Moderna, minimalista, responsiva y centrada en la experiencia del usuario.                                                          |
+| **Herramientas de evaluación** | Muy completas; permite cuestionarios, tareas, rúbricas, talleres, coevaluaciones, bancos de preguntas y seguimiento por competencias.          | Avanzadas; incluye pruebas, rúbricas, libro de calificaciones, análisis de preguntas y seguimiento del desempeño estudiantil.          | Completas y fáciles de utilizar; integra cuestionarios, rúbricas, SpeedGrader, tareas y retroalimentación multimedia.               |
+| **Comunicación**               | Foros, mensajería interna, avisos, calendario, chat y notificaciones.                                                                          | Anuncios, debates, mensajes, correo institucional, grupos y notificaciones.                                                            | Bandeja de entrada, anuncios, debates, calendario, grupos y notificaciones configurables.                                           |
+| **Recursos multimedia**        | Admite videos, audios, archivos, contenido interactivo H5P, enlaces y paquetes SCORM.                                                          | Permite integrar videos, audios, documentos, videoconferencias y contenidos externos.                                                  | Facilita la incorporación de videos, audios, documentos, grabaciones y herramientas externas.                                       |
+| **Personalización**            | Muy alta; su código abierto permite modificar temas, funciones, estructura y plugins.                                                          | Media; permite configuraciones institucionales, pero posee mayores restricciones por ser una solución comercial.                       | Media; permite configurar cursos e integraciones, aunque ofrece menos libertad para modificar su estructura interna.                |
+| **Aplicación móvil**           | Moodle App para consultar contenidos, participar en actividades, recibir notificaciones y trabajar parcialmente sin conexión.                  | Blackboard LMS App para estudiantes y docentes, con acceso a cursos, tareas, calificaciones y mensajes.                                | Canvas Student, Canvas Teacher y Canvas Parent, con acceso a tareas, calificaciones, calendario, mensajes y cursos.                 |
+| **Licencia**                   | Código abierto bajo licencia GNU GPL.                                                                                                          | Comercial y propietaria.                                                                                                               | Comercial y propietaria, aunque dispone de una edición de código abierto para instalaciones independientes.                         |
+| **Costo**                      | El software puede descargarse gratuitamente, pero la institución debe asumir gastos de alojamiento, mantenimiento, soporte y personal técnico. | Elevado; el precio depende del número de usuarios, servicios contratados e integraciones institucionales.                              | Medio o elevado; su costo depende del plan, cantidad de usuarios y servicios adicionales contratados.                               |
+| **Público objetivo**           | Instituciones educativas de cualquier tamaño, organizaciones públicas, empresas y proyectos con necesidades de personalización.                | Universidades, centros de formación y grandes instituciones que requieren administración, análisis y soporte empresarial.              | Escuelas, universidades e instituciones que priorizan la facilidad de uso, la movilidad y la integración con herramientas externas. |
+
+La comparación se fundamenta en las funcionalidades documentadas oficialmente por Moodle, Anthology e Instructure, incluyendo herramientas de evaluación, aplicaciones móviles, personalización, analítica e integración con servicios educativos externos.
 
 ---
 
 # 💡 Análisis crítico
 
-> Comparativa de plataformas considerando diferentes aspectos.
+## Funcionalidades
 
-- Funcionalidades: Moodle posee la mayor variedad de módulos configurables. Blackboard se enfoca en la potencia para procesos administrativos complejos. Canvas prioriza la eficiencia y la funcionalidad esencial, eliminando lo innecesario para evitar la saturación del usuario.
-  
-- Experiencia del usuario: Canvas destaca significativamente, ofreciendo una interfaz limpia y moderna que requiere mínima instrucción. Blackboard resulta funcional pero rígida y cargada visualmente. Moodle, por su parte, es altamente variable: su experiencia depende totalmente de la personalización hecha por la institución.
-  
-- Recursos pedagógicos: Moodle brilla en el enfoque constructivista, ofreciendo wikis, talleres y bases de datos. Blackboard destaca en herramientas de auditoría y seguimiento académico. Canvas se centra en el flujo de trabajo, facilitando la entrega de tareas y el acceso a materiales de manera inmediata.
-  
-- Herramientas de comunicación: Canvas ofrece una comunicación centralizada y ágil (notificaciones, chats integrados). Blackboard mantiene canales tradicionales muy formales y jerárquicos. Moodle utiliza foros de discusión robustos que, aunque potentes, pueden resultar lentos si no están bien moderados.
-  
-- Evaluación del aprendizaje: Blackboard es la referencia en exámenes complejos y análisis de datos. Canvas simplifica la evaluación mediante rúbricas automáticas muy intuitivas. Moodle ofrece una flexibilidad inmensa, permitiendo desde cuestionarios simples hasta simulaciones avanzadas.
-  
-- Facilidad de administración: Canvas y Blackboard, al ser servicios en la nube (SaaS), ofrecen una administración delegada y sencilla. Moodle exige un equipo técnico especializado para su instalación, seguridad y mantenimiento, lo que añade una capa de complejidad administrativa.
-  
-- Integración con herramientas externas: Canvas posee una arquitectura abierta moderna que se integra con casi cualquier herramienta externa mediante estándares LTI. Blackboard cuenta con integraciones estables pero a menudo costosas. Moodle depende de plugins desarrollados por la comunidad, lo que ofrece gran variedad pero a veces menor estabilidad.
-  
-- Ventajas y limitaciones: Moodle: Ventaja: Libertad absoluta y costo. Limitación: Exigencia técnica alta; Blackboard: Ventaja: Robusto y confiable. Limitación: Costo elevado y curva de aprendizaje lenta; Canvas: Ventaja: Usabilidad y modernidad. Limitación: Menor capacidad de personalización profunda y costo de licencia.
+Moodle es la plataforma que ofrece mayor libertad para configurar actividades, recursos y recorridos de aprendizaje, debido a su modelo de código abierto y a su amplio catálogo de plugins. Blackboard sobresale por sus herramientas institucionales de evaluación, administración, analítica y seguimiento académico. Canvas adopta un enfoque más simplificado, concentrándose en las funciones esenciales para facilitar el trabajo cotidiano de estudiantes y docentes.
+
+Desde una perspectiva funcional, Moodle resulta conveniente cuando la institución desea construir un entorno altamente personalizado; Blackboard responde mejor a organizaciones que necesitan controlar grandes cantidades de cursos, usuarios y datos; Canvas es apropiado cuando se busca reducir la complejidad tecnológica y ofrecer una experiencia más directa.
+
+---
+
+## Experiencia del usuario
+
+Canvas ofrece la experiencia más intuitiva de las tres plataformas, ya que organiza las tareas pendientes, los cursos, las calificaciones y las comunicaciones mediante una interfaz clara. Esto reduce el tiempo que necesita un estudiante para comprender el funcionamiento del aula virtual y le permite concentrarse con mayor rapidez en las actividades académicas.
+
+Blackboard posee una estructura sólida y profesional, pero la cantidad de herramientas disponibles puede requerir capacitación inicial, especialmente cuando la institución no organiza adecuadamente sus cursos. Moodle presenta una experiencia variable, porque su facilidad de uso depende de la plantilla seleccionada, los plugins instalados y la manera en que el administrador estructura la plataforma.
+
+---
+
+## Recursos pedagógicos
+
+Moodle destaca por su orientación hacia el aprendizaje activo y colaborativo, debido a que incorpora foros, talleres, wikis, bases de datos, glosarios, cuestionarios, actividades H5P y sistemas de evaluación entre pares. Esta variedad permite aplicar estrategias constructivistas, aprendizaje basado en proyectos, gamificación y evaluación por competencias.
+
+Blackboard ofrece recursos adecuados para el seguimiento formal del aprendizaje, la administración de grupos, la aplicación de evaluaciones y el análisis del rendimiento. Canvas facilita la entrega de actividades, la retroalimentación rápida, el uso de rúbricas y la organización del aprendizaje mediante módulos y rutas de contenido.
+
+Por consiguiente, Moodle posee una mayor diversidad pedagógica, Blackboard proporciona mayor control institucional y Canvas favorece un flujo de trabajo sencillo y organizado.
+
+---
+
+## Herramientas de comunicación
+
+Moodle utiliza principalmente foros, mensajes, anuncios, calendarios y notificaciones para fomentar la participación. Sus foros permiten crear debates académicos estructurados y aplicar diferentes modalidades de participación, aunque pueden resultar extensos cuando no existe una moderación adecuada.
+
+Blackboard mantiene una comunicación formal mediante anuncios, debates, grupos, mensajes y herramientas institucionales. Canvas centraliza las comunicaciones por medio de su bandeja de entrada, anuncios, calendario y notificaciones configurables, lo que facilita que el estudiante identifique rápidamente los mensajes y actividades pendientes.
+
+Canvas presenta una ventaja en la rapidez y organización de las comunicaciones; Moodle ofrece mayores posibilidades para el debate colaborativo; Blackboard mantiene una estructura comunicativa apropiada para entornos universitarios formales.
+
+---
+
+## Evaluación del aprendizaje
+
+Moodle proporciona un sistema de evaluación flexible que permite elaborar bancos de preguntas, cuestionarios aleatorios, tareas, talleres, rúbricas, escalas, insignias y actividades condicionadas. Esta flexibilidad facilita la aplicación de evaluaciones diagnósticas, formativas y sumativas.
+
+Blackboard sobresale en el análisis del rendimiento, la gestión de rúbricas, el análisis estadístico de preguntas y la identificación de cambios en la actividad de los estudiantes. Canvas simplifica el proceso mediante rúbricas intuitivas, cuestionarios, libros de calificaciones y SpeedGrader, herramienta que permite revisar entregas y proporcionar retroalimentación de manera eficiente.
+
+Blackboard ofrece mayores posibilidades para el análisis institucional; Moodle brinda mayor libertad para diseñar diferentes tipos de evaluación; Canvas facilita la revisión y retroalimentación de las actividades.
+
+---
+
+## Facilidad de administración
+
+La administración de Moodle puede ser compleja cuando la plataforma se instala en servidores propios, ya que requiere actualizaciones, copias de seguridad, control de plugins, monitoreo de seguridad y personal técnico especializado. Sin embargo, también existen servicios administrados, como MoodleCloud, que reducen estas responsabilidades.
+
+Blackboard y Canvas se ofrecen principalmente como soluciones alojadas en la nube, por lo que las actualizaciones y parte del mantenimiento son gestionados por sus proveedores. Esto disminuye la carga técnica interna, aunque genera dependencia del servicio contratado y representa un costo periódico para la institución.
+
+En este aspecto, Canvas resulta más sencillo para la administración cotidiana; Blackboard ofrece una administración empresarial robusta; Moodle concede mayor control, pero demanda más recursos técnicos cuando es gestionado directamente por la institución.
+
+---
+
+## Integración con herramientas externas
+
+Las tres plataformas permiten conectarse con herramientas externas, sistemas de información estudiantil, videoconferencias, repositorios, servicios en la nube y aplicaciones educativas. Una de las tecnologías utilizadas para estas conexiones es el estándar Learning Tools Interoperability, conocido como LTI, el cual permite integrar aplicaciones educativas de manera estandarizada y segura.
+
+Canvas destaca por su ecosistema de aplicaciones, sus interfaces de programación y su compatibilidad con herramientas LTI. Blackboard proporciona integraciones institucionales estables y orientadas a entornos empresariales. Moodle dispone de una extensa variedad de plugins e integraciones, aunque su estabilidad puede depender de la calidad, actualización y compatibilidad de cada complemento instalado.
+
+Canvas ofrece una integración sencilla y organizada; Blackboard prioriza la seguridad y la gestión institucional; Moodle proporciona mayor variedad y libertad de selección.
+
+---
+
+## Aplicación móvil y accesibilidad
+
+Moodle permite consultar cursos, visualizar calificaciones, participar en actividades, recibir notificaciones y acceder a determinados contenidos sin conexión. Blackboard ofrece una aplicación móvil para estudiantes y docentes con acceso a cursos, evaluaciones, mensajes y calificaciones. Canvas dispone de aplicaciones diferenciadas para estudiantes, docentes y padres, lo que permite adaptar la experiencia según el tipo de usuario.
+
+Las tres plataformas favorecen el aprendizaje desde dispositivos móviles; sin embargo, Canvas presenta una experiencia más uniforme e intuitiva, Moodle ofrece ventajas importantes para el acceso sin conexión y Blackboard mantiene una aplicación alineada con su estructura institucional.
+
+---
+
+## Ventajas y limitaciones generales
+
+### Moodle
+
+**Principal ventaja:** ofrece libertad, flexibilidad y control sobre la configuración de la plataforma.
+
+**Principal limitación:** necesita conocimientos técnicos y una adecuada administración para mantener su estabilidad, seguridad y facilidad de uso.
+
+### Blackboard
+
+**Principal ventaja:** proporciona herramientas robustas para evaluación, seguimiento, analítica y administración institucional.
+
+**Principal limitación:** su costo y la cantidad de opciones disponibles pueden dificultar su implementación en instituciones pequeñas o con recursos limitados.
+
+### Canvas
+
+**Principal ventaja:** presenta una interfaz intuitiva, moderna y centrada en facilitar la experiencia de estudiantes y docentes.
+
+**Principal limitación:** ofrece menor libertad de personalización profunda y requiere el pago de servicios institucionales para acceder a sus funciones comerciales.
+
+---
+
+## Valoración comparativa final
+
+A partir del análisis realizado, consideramos que Moodle es la alternativa más conveniente para instituciones que desean personalizar completamente su entorno educativo y cuentan con un equipo técnico preparado. Su modelo de código abierto permite adaptar la plataforma a diferentes metodologías, presupuestos y necesidades pedagógicas.
+
+Blackboard es una opción adecuada para universidades y organizaciones de gran tamaño que requieren estabilidad, soporte profesional, análisis del rendimiento y control de numerosos cursos y usuarios. No obstante, su costo puede limitar su implementación en instituciones pequeñas.
+
+Canvas es la alternativa más favorable para instituciones que priorizan la experiencia del usuario, la facilidad de navegación y la integración con servicios externos. Su diseño permite que estudiantes y docentes utilicen la plataforma con menor necesidad de capacitación técnica.
+
+Por lo tanto, no es posible declarar una plataforma como la mejor en términos absolutos. Moodle sobresale en personalización, Blackboard en robustez institucional y Canvas en usabilidad. La elección debe realizarse después de analizar las necesidades pedagógicas, económicas, tecnológicas y administrativas de cada institución.
 
 ---
 
 # 🎯 Conclusiones
 
-Escriba tres conclusiones relevantes.
-
 ### Conclusión 1
-- Lo importante es cómo enseñamos, no solo la herramienta; después de analizar las tres plataformas, nos queda claro que el programa no hace al maestro. No importa si usas Moodle, Blackboard o Canvas; al final, lo que realmente ayuda al estudiante es cómo el docente organiza el curso y fomenta la participación. Si el docente tiene una metodología clara y sabe motivar, cualquier plataforma sirve. La tecnología es solo el escenario, pero la verdadera enseñanza ocurre en la interacción.
+
+La comparación permitió determinar que Moodle, Blackboard y Canvas cumplen con las funciones esenciales de un sistema de gestión del aprendizaje, pero responden a necesidades institucionales diferentes. Moodle ofrece mayor libertad de personalización, Blackboard proporciona herramientas robustas para la administración y el análisis académico, mientras que Canvas sobresale por su interfaz intuitiva y su facilidad de uso.
+
 ---
 
 ### Conclusión 2
-- Si es difícil de usar, el estudiante se desconecta: Nos dimos cuenta de que la facilidad de uso no es un detalle menor, es clave para que no abandonemos el curso. Cuando una plataforma es intuitiva y moderna (como nos pasó con Canvas), nos enfocamos en aprender. En cambio, cuando la interfaz es confusa o muy anticuada, perdemos tiempo tratando de entender dónde hacer clic en lugar de estudiar. La tecnología debería ayudarnos a avanzar, no ponernos obstáculos.
+
+La calidad de una plataforma LMS no depende únicamente de la cantidad de herramientas que posee, sino de la manera en que estas son organizadas y utilizadas dentro del proceso educativo. Una plataforma técnicamente avanzada puede convertirse en una barrera cuando no existe capacitación, soporte institucional, accesibilidad o una adecuada planificación pedagógica.
+
 ---
 
 ### Conclusión 3
-- No hay una "mejor" plataforma, solo la que mejor se ajusta a cada caso: Al comparar, aprendimos que la elección depende mucho de la realidad de cada universidad. Si una institución tiene un equipo técnico grande y quiere personalizar todo a su medida, Moodle es la mejor opción. Pero, si la prioridad es que todo funcione de forma fluida, con buen soporte y sin complicaciones técnicas, las soluciones comerciales como Canvas o Blackboard ganan terreno. Al final, todo se reduce a un equilibrio entre cuánto presupuesto tienen, qué tanto control quieren sobre el sistema y qué tan fácil quieren que sea la vida para sus estudiantes.
+
+Consideramos que Canvas ofrece la mejor experiencia inmediata para el estudiante, Moodle representa la opción más flexible para desarrollar propuestas educativas personalizadas y Blackboard es apropiado para instituciones que necesitan mayor control administrativo y analítico. En consecuencia, la elección final debe considerar el presupuesto, la infraestructura tecnológica, las competencias digitales de los usuarios y los objetivos pedagógicos de la institución.
+
 ---
 
 # 📚 Referencias bibliográficas
 
-Utilice el formato **APA 7**.
+1EdTech Consortium. (s. f.). *Learning Tools Interoperability (LTI)*. Recuperado el 26 de julio de 2026, de https://www.1edtech.org/standards/lti
 
-Ejemplo:
+Anthology. (s. f.). *Blackboard: El LMS más moderno e innovador disponible*. Recuperado el 26 de julio de 2026, de https://www.anthology.com/es-lac/productos/ensenando-y-aprendiendo/eficacia-del-aprendizaje/blackboard-learn
 
-```text
-Autor, A. A. (2024). Título del libro. Editorial.
+Anthology. (2026). *Analytics*. https://help.anthology.com/blackboard/instructor/en/analytics.html
 
-Autor, B. B. (2025). Título del artículo. https://xxxxx
-```
+Anthology. (2026). *Blackboard LMS App*. https://help.anthology.com/blackboard/student/en/blackboard-app.html
+
+Anthology. (2026). *Rubrics*. https://help.anthology.com/blackboard/instructor/en/grading/grading-setup/rubrics.html
+
+Instructure. (s. f.). *Canvas: Plataforma educativa líder mundial para la enseñanza y el aprendizaje*. Recuperado el 26 de julio de 2026, de https://www.instructure.com/es/canvas
+
+Instructure. (s. f.). *What is Canvas?* Recuperado el 26 de julio de 2026, de https://community.instructure.com/en/kb/articles/662716-what-is-canvas
+
+Instructure. (s. f.). *What is the Canvas app?* Recuperado el 26 de julio de 2026, de https://community.instructure.com/en/kb/articles/662784-what-is-the-canvas-app
+
+Moodle. (s. f.). *Características de Moodle LMS*. Recuperado el 26 de julio de 2026, de https://moodle.com/es/solutions/lms/funcionalidades/
+
+Moodle. (2025). *Moodle app features*. https://docs.moodle.org/en/Moodle_app_features
+
+Moodle. (2026). *Moodle app offline features*. https://docs.moodle.org/en/Moodle_app_offline_features
 
 ---
 
@@ -208,21 +314,25 @@ Autor, B. B. (2025). Título del artículo. https://xxxxx
 
 ## Repositorio GitHub
 
-Pegue aquí el enlace del repositorio.
+Enlace del repositorio utilizado para presentar la reseña crítica comparativa:
 
-```
+```text
 https://github.com/usuario/evaluacion-LMS
 ```
 
+> **Nota:** Reemplace `usuario` y `evaluacion-LMS` por el nombre real de la cuenta y del repositorio.
+
 ---
 
-## GitHub Pages (Opcional)
+## GitHub Pages
 
-Si publicó el proyecto mediante GitHub Pages, coloque aquí el enlace.
+Enlace de acceso a la publicación del proyecto mediante GitHub Pages:
 
-```
+```text
 https://usuario.github.io/evaluacion-LMS/
 ```
+
+> **Nota:** Esta evidencia es opcional y solamente debe incluirse cuando el repositorio haya sido publicado mediante GitHub Pages.
 
 ---
 
@@ -236,4 +346,7 @@ Facultad de Ciencias Tecnológicas
 
 Asignatura: Enseñanza y Aprendizaje en Línea
 
-2026
+Docente: Briseida Cruz
+
+Año: 2026
+
