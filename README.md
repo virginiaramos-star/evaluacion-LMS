@@ -34,11 +34,11 @@ Concluimos que no existe un sistema perfecto para todas las situaciones. La elec
 
 > Escriba un máximo de cinco palabras clave en orden alfabético.
 
-- Blackboard
-- Canvas
-- Educación Virtual
-- LMS
-- Moodle
+- Aula Virtual
+- Competencias Digitales
+- E-learning
+- Herramientas Colaborativas
+- Entornos de aprendizaje
 
 ---
 
