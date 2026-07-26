@@ -10,7 +10,8 @@ Comparativa de Plataformas LMS
 
 # 📖 Descripción
 
-Este repositorio documentó una reseña crítica comparativa de tres sistemas de gestión del aprendizaje (Moodle, Blackboard y Canvas). Analizamos sus características técnicas, las ventajas y las limitaciones que observamos al utilizarlas, y discutimos sus aplicaciones reales dentro de los entornos educativos virtuales.
+Este repositorio presenta una **reseña crítica comparativa** de tres Sistemas de Gestión del Aprendizaje (Learning Management System - LMS): **Moodle**, **Blackboard** y **Canvas**, considerando sus principales características, ventajas, limitaciones y aplicaciones en contextos educativos.
+
 ---
 
 # 🎯 Objetivo
