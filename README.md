@@ -2,9 +2,7 @@
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
-> **Docente:** Briseida Cruz  
-> **Grupo:** Alpha  
-> **Fecha:** 27 / 07 / 2026
+> **Docente:** Briseida Cruz
 
 ---
 
