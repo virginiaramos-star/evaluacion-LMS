@@ -170,12 +170,7 @@ Es un LMS basado en la nube que destaca por su interfaz moderna, intuitiva y cen
   
 - Integración con herramientas externas: Canvas posee una arquitectura abierta moderna que se integra con casi cualquier herramienta externa mediante estándares LTI. Blackboard cuenta con integraciones estables pero a menudo costosas. Moodle depende de plugins desarrollados por la comunidad, lo que ofrece gran variedad pero a veces menor estabilidad.
   
-- Ventajas y limitaciones:
-Moodle: Ventaja: Libertad absoluta y costo. Limitación: Exigencia técnica alta.
-
-Blackboard: Ventaja: Robusto y confiable. Limitación: Costo elevado y curva de aprendizaje lenta.
-
-Canvas: Ventaja: Usabilidad y modernidad. Limitación: Menor capacidad de personalización profunda y costo de licencia.
+- Ventajas y limitaciones: Moodle: Ventaja: Libertad absoluta y costo. Limitación: Exigencia técnica alta; Blackboard: Ventaja: Robusto y confiable. Limitación: Costo elevado y curva de aprendizaje lenta; Canvas: Ventaja: Usabilidad y modernidad. Limitación: Menor capacidad de personalización profunda y costo de licencia.
 
 ---
 
@@ -184,15 +179,15 @@ Canvas: Ventaja: Usabilidad y modernidad. Limitación: Menor capacidad de person
 Escriba tres conclusiones relevantes.
 
 ### Conclusión 1
-
+Lo importante es cómo enseñamos, no solo la herramienta; después de analizar las tres plataformas, nos queda claro que el programa no hace al maestro. No importa si usas Moodle, Blackboard o Canvas; al final, lo que realmente ayuda al estudiante es cómo el docente organiza el curso y fomenta la participación. Si el docente tiene una metodología clara y sabe motivar, cualquier plataforma sirve. La tecnología es solo el escenario, pero la verdadera enseñanza ocurre en la interacción.
 ---
 
 ### Conclusión 2
-
+Si es difícil de usar, el estudiante se desconecta: Nos dimos cuenta de que la facilidad de uso no es un detalle menor, es clave para que no abandonemos el curso. Cuando una plataforma es intuitiva y moderna (como nos pasó con Canvas), nos enfocamos en aprender. En cambio, cuando la interfaz es confusa o muy anticuada, perdemos tiempo tratando de entender dónde hacer clic en lugar de estudiar. La tecnología debería ayudarnos a avanzar, no ponernos obstáculos.
 ---
 
 ### Conclusión 3
-
+No hay una "mejor" plataforma, solo la que mejor se ajusta a cada caso: Al comparar, aprendimos que la elección depende mucho de la realidad de cada universidad. Si una institución tiene un equipo técnico grande y quiere personalizar todo a su medida, Moodle es la mejor opción. Pero, si la prioridad es que todo funcione de forma fluida, con buen soporte y sin complicaciones técnicas, las soluciones comerciales como Canvas o Blackboard ganan terreno. Al final, todo se reduce a un equilibrio entre cuánto presupuesto tienen, qué tanto control quieren sobre el sistema y qué tan fácil quieren que sea la vida para sus estudiantes.
 ---
 
 # 📚 Referencias bibliográficas
