@@ -44,19 +44,19 @@ Concluimos que no existe un sistema perfecto para todas las situaciones. La elec
 
 ## Antecedentes
 
-> Explique brevemente qué son los LMS y su evolución.
+Los Sistemas de Gestión del Aprendizaje (LMS, por sus siglas en inglés) son plataformas de software diseñadas para administrar, distribuir y evaluar actividades de formación en línea. Su evolución ha sido notable: pasaron de ser simples repositorios de archivos PDF en los años 90, a convertirse en ecosistemas dinámicos de aprendizaje basados en la nube, la inteligencia artificial y la gamificación, permitiendo una interacción 24/7 entre docentes y alumnos.
 
 ---
 
 ## Objetivo del análisis
 
-> Indique qué pretende demostrar con la comparación.
+Este estudio pretende demostrar cómo la elección de una plataforma LMS no es trivial. El objetivo es identificar qué criterios técnicos (integraciones, usabilidad) y pedagógicos (herramientas de evaluación, foros, retroalimentación) son los que realmente dictan el éxito del proceso enseñanza-aprendizaje en el contexto actual.
 
 ---
 
 ## Justificación
 
-> Explique la importancia de conocer las diferentes plataformas educativas.
+Conocer las diferencias entre estas herramientas es vital para docentes y administradores educativos. En un entorno donde la educación híbrida es la norma, elegir una plataforma inadecuada puede generar fricción tecnológica, frustración en el usuario y, en última instancia, una desconexión pedagógica.
 
 ---
 
@@ -68,23 +68,21 @@ Concluimos que no existe un sistema perfecto para todas las situaciones. La elec
 
 ## Descripción
 
-> Escriba una breve descripción.
+Es el Sistema de Gestión de Aprendizaje (LMS) de código abierto más popular del mundo. Basado en una pedagogía constructivista social, Moodle permite a los educadores crear cursos en línea altamente personalizados mediante una amplia variedad de actividades, cuestionarios, foros y herramientas de colaboración, todo bajo un entorno de gestión propia y flexible.
 
 ### Ventajas
 
--
-
--
-
--
+- Interfaz limpia y altamente intuitiva.
+  
+- Excelente integración con herramientas externas (Google Workspace, Microsoft, etc.).
+  
+- Aplicación móvil robusta con funciones completas para el estudiante.
 
 ### Desventajas
 
--
+- Costo elevado en comparación con soluciones de código abierto.
 
--
-
--
+- Menor capacidad de personalización profunda del sistema comparado con Moodle.
 
 ---
 
@@ -92,7 +90,7 @@ Concluimos que no existe un sistema perfecto para todas las situaciones. La elec
 
 ## Descripción
 
-> Escriba una breve descripción.
+Es una plataforma LMS de nivel empresarial, reconocida por su robustez y su enfoque en la gestión institucional a gran escala. Ofrece un ecosistema integral que incluye herramientas avanzadas de evaluación, gestión de rúbricas, análisis predictivo del rendimiento estudiantil y una alta capacidad de integración con sistemas de gestión escolar (SIS), convirtiéndose en la opción predilecta para universidades de gran prestigio.
 
 ### Ventajas
 
@@ -116,7 +114,7 @@ Concluimos que no existe un sistema perfecto para todas las situaciones. La elec
 
 ## Descripción
 
-> Escriba una breve descripción.
+Es un LMS basado en la nube que destaca por su interfaz moderna, intuitiva y centrada en la experiencia del usuario (UX). Diseñado para reducir la fricción técnica tanto para docentes como para alumnos, Canvas facilita la gestión de cursos mediante herramientas visuales, comunicación ágil y una integración fluida con aplicaciones externas, promoviendo un aprendizaje más dinámico y conectado.
 
 ### Ventajas
 
