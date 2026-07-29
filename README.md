@@ -66,7 +66,7 @@ Conocer las diferencias entre estas herramientas resulta vital para los docentes
 
 ---
 
-# 🔵 Moodle
+# 🔵![alt text](https://github.com/virginiaramos-star/evaluacion-LMS/blob/main/NDEyfHdwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA3L2xvZ29ibGFja2JvYXJkbGVhcm4ucG5n.webp?raw=true) Moodle
 
 ## Descripción
 
