@@ -66,7 +66,7 @@ Conocer las diferencias entre estas herramientas resulta vital para los docentes
 
 ---
 
-# ![alt text](<img src="[https://github.com](https://github.com/virginiaramos-star/evaluacion-LMS/blob/main/NDEyfHdwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA3L2xvZ29ibGFja2JvYXJkbGVhcm4ucG5n.webp?raw=true)" width="300" height="150"> Moodle
+# ![alt text](https://github.com](https://github.com/virginiaramos-star/evaluacion-LMS/blob/main/NDEyfHdwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA3L2xvZ29ibGFja2JvYXJkbGVhcm4ucG5n.webp?raw=true)" width="60" height="60"> Moodle
 ## Descripción
 
 Moodle es el sistema de gestión del aprendizaje de código abierto más popular del mundo, y se fundamenta en una pedagogía constructivista social que concibe el aprendizaje como una construcción colectiva del conocimiento; gracias a este enfoque, la plataforma permite a los educadores crear cursos en línea altamente personalizados mediante una amplia variedad de actividades, cuestionarios, foros y herramientas de colaboración, todo bajo un entorno de gestión propia que otorga un control considerable sobre la configuración del sistema; su naturaleza abierta significa que cualquier institución puede descargar el software, instalarlo en sus propios servidores y adaptarlo a sus necesidades específicas, lo cual convierte a Moodle en una solución especialmente atractiva para quienes desean flexibilidad y autonomía, aunque también implica que la responsabilidad del funcionamiento y del mantenimiento recae en buena medida sobre el equipo técnico de la propia organización educativa.
