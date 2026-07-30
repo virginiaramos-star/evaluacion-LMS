@@ -1,3 +1,19 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Página Web</title>
+    
+    <!-- Añade este bloque <style> dentro del <head> -->
+    <style>
+        body {
+            background-color: #f0f4f8; /* Tu color favorito */
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Hola mundo!</h1>
+</body>
+</html>
 # Reseña Crítica Comparativa de Plataformas LMS
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea
