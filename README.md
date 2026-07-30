@@ -4,7 +4,7 @@
     <!-- Añade este bloque <style> dentro del <head> -->
     <style>
         body {
-            background-color: #F54927; /* Tu color favorito */
+            background-color: #E5FFF4; /* Tu color favorito */
         }
     </style>
 </head>
