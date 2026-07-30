@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Mi Página en GitHub</title>
     <style>
         body {
             background-color: #1a1a2e; /* Cambia este código de color */
