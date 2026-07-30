@@ -1,8 +1,5 @@
-
-<head>
       background-color: #0d1117; /* Color estilo GitHub Oscuro */
       color: #ffffff;           /* Color del texto */
-   </head>
 # Reseña Crítica Comparativa de Plataformas LMS
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea
