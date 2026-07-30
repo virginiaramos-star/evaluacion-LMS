@@ -1,5 +1,4 @@
 <html lang="es">
-<head>
     <style>
         body {
             background-color: #1a1a2e; /* Cambia este código de color */
@@ -7,7 +6,6 @@
             font-family: Arial, sans-serif;
         }
     </style>
-</head>
 # Reseña Crítica Comparativa de Plataformas LMS
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea
