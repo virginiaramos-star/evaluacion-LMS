@@ -1,3 +1,16 @@
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Página en GitHub</title>
+  <style>
+    /* Cambia 'navy' por el color que prefieras (ej. #121212, red, blue) */
+    body {
+      background-color: #0d1117; /* Color estilo GitHub Oscuro */
+      color: #ffffff;           /* Color del texto */
+      font-family: sans-serif;
+    }
+  </style>
+</head>
 # Reseña Crítica Comparativa de Plataformas LMS
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea
