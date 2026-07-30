@@ -10,9 +10,6 @@
         }
     </style>
 </head>
-<body>
-    <h1>¡Hola mundo!</h1>
-</body>
 </html>
 # Reseña Crítica Comparativa de Plataformas LMS
 
