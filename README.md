@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
     <style>
         body {
             background-color: #1a1a2e; /* Cambia este código de color */
