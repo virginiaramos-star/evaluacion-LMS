@@ -1,9 +1,3 @@
-<html>
-    <style>
-            background-color: #1a1a2e; /* Cambia este código de color */
-            color: #ffffff;            /* Color del texto */
-            font-family: Arial, sans-serif;
-    </style>
 # Reseña Crítica Comparativa de Plataformas LMS
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea
