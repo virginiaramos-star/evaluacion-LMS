@@ -1,4 +1,4 @@
-<html lang="es">
+<html>
     <style>
             background-color: #1a1a2e; /* Cambia este código de color */
             color: #ffffff;            /* Color del texto */
